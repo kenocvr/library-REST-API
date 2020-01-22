@@ -4,6 +4,10 @@
     ./mvnw
     npm start
 
+❮img src="images/screen1.png" width="800" ❯
+
+❮img src="images/screen2.png" width="800" ❯
+
 ## Testing
 
 To launch your application's tests, run:
