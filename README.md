@@ -4,9 +4,18 @@
     ./mvnw
     npm start
 
-❮img src="images/screen1.png" width="800" ❯
+## Login
+    username: admin
+    password: admin
+    
+## API Documentation
+    Go to:
+        -Admin
+        -API
+        
+<img src="images/screen1.png" width="800">
 
-❮img src="images/screen2.png" width="800" ❯
+<img src="images/screen2.png" width="800">
 
 ## Testing
 
